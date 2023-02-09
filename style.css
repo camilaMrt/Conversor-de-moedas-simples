@@ -1,0 +1,56 @@
+body {
+    text-align: center;
+    background-color: #323232;
+}
+
+img {
+    width: 50%;
+}
+
+h1 {
+    color: #5B9272;
+    font-size: 36px;
+}
+
+p {
+    color: #F0EED1;
+    font-size: 20px;
+}
+
+input {
+    width: 140px;
+    height: 30px;
+    text-align: center;
+    background-color: #faf9e3;
+}
+
+#input-real {
+    border: 3.5px solid #5B9272;
+}
+
+#input-dolar {
+    border: 3.5px solid #9D5049;
+}
+
+#dolares {
+    font-weight: bold;
+    font-size: 25px;
+    color: #F0EED1;
+}
+
+button {
+    height: 40px;
+    width: 150px;
+    font-size: 20px;
+    cursor: pointer;
+    border: 2px solid #FE998B;
+    border-radius: 10px;
+    background-color: #323232;
+    color: #FDB2A4;
+}
+
+button:hover {
+    color: #323232;
+    background-color: #FEB4A6;
+    border: #FEB4A6;
+}

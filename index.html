@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="./style.css">
     <title>MyDollar</title>
 </head>
 
@@ -24,89 +25,7 @@
     </div>
 </body>
 
-<style>
 
-    body {
-        text-align: center;
-        background-color: #323232;
-    }
-
-    img {
-        width: 50%;
-    }
-
-    h1 {
-        color: #5B9272;
-        font-size: 36px;
-    }
-
-    p {
-        color: #F0EED1;
-        font-size: 20px;
-    }
-
-    input {
-        width: 140px;
-        height: 30px;
-        text-align: center;
-        background-color: #faf9e3;
-    }
-
-    #input-real {
-        border: 3.5px solid #5B9272;
-    }
-
-    #input-dolar {
-        border: 3.5px solid #9D5049;
-    }
-
-    #dolares {
-        font-weight: bold;
-        font-size: 25px;
-        color: #F0EED1;
-    }
-
-
-
-    button {
-        height: 40px;
-        width: 150px;
-        font-size: 20px;
-        cursor: pointer;
-        border: 2px solid #FE998B;
-        border-radius: 10px;
-        background-color: #323232;
-        color: #FDB2A4;
-    }
-
-    button:hover {
-        color: #323232;
-        background-color: #FEB4A6;
-        border: #FEB4A6;
-    }
-
-</style>
-
-
-<script>
-
-    function calcularDolar() {
-    let real = document.getElementById("input-real").value
-    let dolar = document.getElementById("input-dolar").value
-    let resultado = real/dolar
-    let valorFixado = resultado.toFixed(2)
-
-    if(real == 0 || dolar == 0) {
-        alert('Favor preencher todos os campos.')
-    } else {
-        dolares.innerHTML = ' $' + valorFixado
-    }  
-    
-    document.getElementById("input-real").value =""
-    document.getElementById("input-dolar").value=""
-
-    }
-
-</script>
+<script src="./script.js"></script>
 
 </html>
