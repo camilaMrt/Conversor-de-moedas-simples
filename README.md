@@ -24,12 +24,14 @@ no <a href="https://www.youtube.com/@RodolfoMori">
 
 <h3>:triangular_flag_on_post: Funcionalidades</h3> <br>
 
-:small_blue_diamond:  
+:small_blue_diamond: Projeto simples onde é necessário adicionar tanto o valor do real a ser convertido, quanto o valor do dólar do dia (Não auto preenche ou atualiza automaticamente). 
 
-:small_blue_diamond:  
+:small_blue_diamond: Preenchendo ambos os campos (input), 'valor em real', 'valor do dólar' e clicando no botão 'Converter', logo abaixo você tem o resultado.
 
-:small_blue_diamond:  
+:small_blue_diamond: Os inputs não permitem letras.
 
-:small_blue_diamond: 
+:small_blue_diamond: Ambos os campos devem ser preenchidos, ou uma mensagem "Favor preencher todos os campos." aparecerá.
 
-:small_blue_diamond: 
+:small_blue_diamond: Quando clicado o botão 'Converter', os campos zeram, e aparece apenas o resultado.
+
+:small_blue_diamond: Para obter novo valor, basta preencher novamente os campos 'valor em real', 'valor do dólar' e clicar no botão 'Converter'.
