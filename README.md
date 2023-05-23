@@ -1,14 +1,14 @@
-# Conversor de Moedas
+# <div align="center"> Conversor de Moedas </div>
 
-<h3>:triangular_flag_on_post: Descrição do projeto</h3> <br>
+<div align="center"><h3>:triangular_flag_on_post: Descrição do projeto</h3></div> <br>
 
-:small_blue_diamond: Projeto realizado com o objetivo de converter reais em dólares. Criado e desenvolvido <br>
-baseado em vídeo aula realizada por  <a href="https://www.youtube.com/@RodolfoMori">Rodolfo Mori</a> em sua página 
+<div align="center"> Projeto realizado com o objetivo de converter reais em dólares. <br>Criado e desenvolvido 
+baseado em vídeo aula realizada por <br> <a href="https://www.youtube.com/@RodolfoMori">Rodolfo Mori</a> em sua página 
 no <a href="https://www.youtube.com/@RodolfoMori">
-<img width="70" align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> .
+<img width="70" align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> . </div>
 <br>
 
-<img align="center" width="500px" src="https://github.com/camilaMrt/DevClub---Conversor-de-moedas/blob/main/gif_site.gif?raw=true">
+<div align="center"><img width="500px" src="https://github.com/camilaMrt/DevClub---Conversor-de-moedas/blob/main/gif_site.gif?raw=true"></div>
 
 ##
 
